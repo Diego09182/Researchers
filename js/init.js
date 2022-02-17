@@ -47,8 +47,7 @@ const Home = {
 			  <div class="col m6 s12">
 					<article>
 						<h3>言論自由之下的亂象</h3>
-						<p>假訊息?假新聞?當言論成為破壞社會秩序的武器?我們應該如何應對?</p>
-						
+						<p>假訊息?假新聞?當言論成為破壞社會秩序的武器?我們應該如何應對?</p>	
 					</article>
 					<div class="chip chip-two">
 					  法律
@@ -56,7 +55,7 @@ const Home = {
 					<div class="chip chip-two">
 					  人權
 					</div>
-					<br><br><br><br><br><br>
+					<br><br><br><br><br><br><br><br><br>
 					<div class="right-align">
 						<a class="waves-effect waves-light btn-large brown" href="Fakenews.html">閱讀內容</a>
 					</div>
@@ -85,7 +84,7 @@ const Home = {
 					<div class="chip chip-one">
 					  經濟
 					</div>
-					<br><br><br><br><br><br>
+					<br><br><br><br><br><br><br><br><br><br>
 					<div class="right-align">
 						<a class="waves-effect waves-light btn-large brown" href="Auto.html">閱讀內容</a>
 					</div>
@@ -145,8 +144,7 @@ const About = {
 			<h3>我們是兩個高中生組成的團，對社會議題很關心的我們決定將對議題的看法發表於網路上，我們會將近期研究成果放於此網站上。</h3>
 		</div>
 		<br><br><br><br><br>
-	</div>
-	`
+	</div>`
 }
 
 
